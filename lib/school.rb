@@ -31,3 +31,4 @@ class School
     end
     hash.sort.to_h
   end 
+end
