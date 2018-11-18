@@ -1,4 +1,4 @@
 class School
   roster = { }
-  def roster()
+  def initialize(roster)
 end
